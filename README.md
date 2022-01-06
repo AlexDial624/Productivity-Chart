@@ -7,7 +7,7 @@ A program built entirely within Google Sheets designed to simplify planning & tr
 # Data Plots
 ![image](https://user-images.githubusercontent.com/29134239/148450912-450dcce9-f7a7-4734-803c-ad8599299dff.png)
 
-# Update to Google Calendar
+# Push Schedule to Google Calendar
 ![image](https://user-images.githubusercontent.com/29134239/148451692-09868f9d-b9e8-47bc-b102-ed54db25cd89.png)
 ![image](https://user-images.githubusercontent.com/29134239/148451763-0009ca9f-5b4e-4527-89da-8729a969340e.png)
 
