@@ -2,7 +2,7 @@
 A program built entirely within Google Sheets designed to simplify planning & tracking of activities, projects, and habits while generating personalized insights.
 
 # Weekly Chart
-![image](https://user-images.githubusercontent.com/29134239/148450637-16829be1-9743-4d1e-bb34-e3de05a4a686.png)
+![image](https://user-images.githubusercontent.com/29134239/148452187-a4c8a41a-e24e-49c3-b038-e3a9bc277232.png)
 
 # Data Plots
 ![image](https://user-images.githubusercontent.com/29134239/148450912-450dcce9-f7a7-4734-803c-ad8599299dff.png)
