@@ -1,7 +1,7 @@
 # Productivity-Chart
-Google Sheet to plan & track activities, projects, and habits while generating personalized insights
+A program built entirely within Google Sheets designed to simplify planning & tracking of activities, projects, and habits while generating personalized insights.
 
-# The Chart
+# Weekly Chart
 ![image](https://user-images.githubusercontent.com/29134239/148450637-16829be1-9743-4d1e-bb34-e3de05a4a686.png)
 
 # Data Plots
