@@ -1,4 +1,4 @@
-# Productivity-Chart
+# “Where’s my time going?” Google Sheets Time-Keeper
 A program built entirely within Google Sheets designed to simplify planning & tracking of activities, projects, and habits while generating personalized insights.
 https://docs.google.com/spreadsheets/d/1HTP0lNhfCDY4lrhE8fJmZQ5PLTOkrO_OUfzBco_6D40/edit?usp=sharing
 
